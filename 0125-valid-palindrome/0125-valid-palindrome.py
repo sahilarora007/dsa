@@ -1,7 +1,8 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        newStr = ""
-        for c in s:
-            if c.isalnum():
-                newStr += c.lower()
-        return newStr == newStr[::-1]
+        clean_text = re.sub(r'[^a-zA-Z0-9]', '', s.lower())
+        reverse = clean_text[::-1]
+        if clean_text == reverse:
+            return True
+        else:
+            return False
