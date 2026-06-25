@@ -6,6 +6,7 @@ Grinding LeetCode so recruiters think I shower.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahilarora007/dsa/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/sahilarora007/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ Grinding LeetCode so recruiters think I shower.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahilarora007/dsa/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/sahilarora007/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -38,6 +40,7 @@ Grinding LeetCode so recruiters think I shower.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahilarora007/dsa/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/sahilarora007/dsa/tree/master/0125-valid-palindrome) |
 ## String
 |  |
