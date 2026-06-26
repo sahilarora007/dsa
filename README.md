@@ -8,6 +8,7 @@ Grinding LeetCode so recruiters think I shower.
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilarora007/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahilarora007/dsa/tree/master/0015-3sum) |
+| [0238-product-of-array-except-self](https://github.com/sahilarora007/dsa/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sahilarora007/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -52,4 +53,8 @@ Grinding LeetCode so recruiters think I shower.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilarora007/dsa/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sahilarora007/dsa/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
