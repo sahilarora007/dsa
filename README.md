@@ -6,6 +6,7 @@ Grinding LeetCode so recruiters think I shower.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sahilarora007/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahilarora007/dsa/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/sahilarora007/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -40,10 +41,15 @@ Grinding LeetCode so recruiters think I shower.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sahilarora007/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahilarora007/dsa/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/sahilarora007/dsa/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sahilarora007/dsa/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sahilarora007/dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
