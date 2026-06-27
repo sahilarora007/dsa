@@ -50,6 +50,7 @@ Grinding LeetCode so recruiters think I shower.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sahilarora007/dsa/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sahilarora007/dsa/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
@@ -63,4 +64,8 @@ Grinding LeetCode so recruiters think I shower.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sahilarora007/dsa/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sahilarora007/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
