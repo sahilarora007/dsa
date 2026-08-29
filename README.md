@@ -8,6 +8,7 @@ Grinding LeetCode so recruiters think I shower.
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilarora007/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahilarora007/dsa/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sahilarora007/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sahilarora007/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilarora007/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/sahilarora007/dsa/tree/master/0238-product-of-array-except-self) |
@@ -72,5 +73,6 @@ Grinding LeetCode so recruiters think I shower.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sahilarora007/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilarora007/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
